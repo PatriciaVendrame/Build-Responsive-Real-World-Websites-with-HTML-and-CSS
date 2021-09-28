@@ -74,3 +74,9 @@ _**HEADINGS:**_ El objetivo de los headings o encabezados es dividir grandes blo
 
 Ciertos elementos se les atribuye un significado o propósito, ver cada elemento como lo que significa y lo que representa. No todos los elementos son semánticos
 Se utiliza para la optimizacion de los motores de busqueda como los de Google, esto significa que puede comprender la estructura del contenido y de que se trata el sitio web. También es muy importante en términos de accesibilidad y especialmente para las personas que dependen de los lectores de pantallas para consumir contenido web
+
+---
+
+## **CHALLENGE #1**
+
+[CHALLENGE #1 ENLACE CODEPEN](https://codepen.io/PatriciaVendrame/full/QWgzgLG)
