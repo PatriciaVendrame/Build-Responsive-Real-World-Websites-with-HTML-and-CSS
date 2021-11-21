@@ -10,3 +10,4 @@
 - ### Cómo utilizar componentes comunes y patrones de diseño para el diseño y desarrollo de sitios web profesionales
 - ### Habilidades de desarrollador, como lectura de documentación, depuración y uso de herramientas profesionales.
 - ### Resolucion de desafíos
+- ## [PROYECTO DEL CURSO](https://omnifoodprojectcoursehtmlcss.netlify.app/)
